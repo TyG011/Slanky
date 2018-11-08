@@ -1,2 +1,0 @@
-# Slanky
-Slanky
